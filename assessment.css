@@ -1,0 +1,75 @@
+h2{
+  color: teal;
+  font-family: sans-serif;
+}
+
+h3{
+  color: teal;
+  font-family: sans-serif;
+}
+
+h4{
+  color: teal;
+  font-family: sans-serif;
+}
+
+h5{
+  color: teal;
+  font-family: sans-serif;
+}
+
+caption{
+  font-weight: bold;
+  color: red;
+}
+
+table{
+  border-style: solid;
+  border-width: medium;
+  text-align: center;
+}
+th{
+  border-style: solid;
+  border-width: medium;
+  text-align: center;
+}
+td{
+  border-style: solid;
+  border-width: medium;
+  text-align: center;
+}
+
+ul{
+  list-style: square;
+}
+ol{
+  list-style: square;
+}
+
+a:hover {
+  background-color: green
+}
+a:link{
+  text-decoration: none;
+}
+
+blockquote{
+  background-color: black
+}
+blockquote{
+  color: tan
+}
+
+
+
+
+
+
+
+
+
+
+
+form li{
+  list-style-type: none;
+}
